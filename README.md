@@ -1,6 +1,9 @@
 # ✈ Airline Route Analysis & Profitability Model
 **Capital One Data Challenge Submission**  
-Repository: [Devipriya‑Dasari/airline-data-analysis-challenge](https://github.com/Devipriya-Dasari/airline-data-analysis-challenge)
+## Challenge Reference
+This project is based on the **Data Analyst Airline Data Challenge** published by Capital One Recruiting.  
+You can view the original challenge here: [DA-Airline-Data-Challenge](https://github.com/CapitalOneRecruiting/DA-Airline-Data-Challenge)
+
 
 ---
 
